@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 99f2e0e1-2dd7-a8da-c15f-55445b29323c
 resourcetype: Document
 title: feb5assign.pdf
 uid: 7562268d-de1b-12e1-99a0-410ee86c69e6

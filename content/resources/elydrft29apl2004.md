@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c90e6ec2-ec3a-d3d8-70a7-b660afb8e09d
 resourcetype: Document
 title: elydrft29apl2004.pdf
 uid: a292e8c0-a975-ffe3-c98b-b4fba6f34db6

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d8a83803-3e8a-8de4-0d18-d59a3d730ce8
 resourcetype: Document
 title: ag_vw_firm_impli.pdf
 uid: d78ce15f-90c5-5074-1baa-d48e17ca1b0c

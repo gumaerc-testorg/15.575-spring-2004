@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 09125731-256e-c131-5731-43f3e361d2f2
 resourcetype: Document
 title: April1.pdf
 uid: 125b3ecf-91f8-cfdd-30a1-5d9979135372

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d8a83803-3e8a-8de4-0d18-d59a3d730ce8
 resourcetype: Document
 title: 15575prstn_smry.pdf
 uid: c76521ad-b377-bc13-e473-8064cf33671c

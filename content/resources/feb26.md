@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 09125731-256e-c131-5731-43f3e361d2f2
 resourcetype: Document
 title: feb26.pdf
 uid: dc8f9272-0a59-1ef1-b5b6-582d1b89f233

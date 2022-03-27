@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 09125731-256e-c131-5731-43f3e361d2f2
 resourcetype: Document
 title: feb19.pdf
 uid: e659422d-f7d1-5dc5-15ec-75b7c72d7a78

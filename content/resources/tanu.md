@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d8a83803-3e8a-8de4-0d18-d59a3d730ce8
 resourcetype: Document
 title: tanu.pdf
 uid: cf64598d-0c47-b912-ec7d-ee7d938b91b4

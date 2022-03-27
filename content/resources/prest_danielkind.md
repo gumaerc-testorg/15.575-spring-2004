@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c90e6ec2-ec3a-d3d8-70a7-b660afb8e09d
 resourcetype: Document
 title: prest_danielkind.pdf
 uid: f74b1861-668d-12df-3b39-c41984412b5e

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: d8a83803-3e8a-8de4-0d18-d59a3d730ce8
 resourcetype: Document
 title: tanuppt.pdf
 uid: a696e4ff-e1e0-5e49-35cf-d68b7cdcb460

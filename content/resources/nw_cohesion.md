@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c90e6ec2-ec3a-d3d8-70a7-b660afb8e09d
 resourcetype: Document
 title: nw_cohesion.pdf
 uid: 37b86228-20ca-5399-48cd-0a6032403b11

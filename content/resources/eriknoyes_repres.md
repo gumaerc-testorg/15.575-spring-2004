@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c90e6ec2-ec3a-d3d8-70a7-b660afb8e09d
 resourcetype: Document
 title: eriknoyes_repres.pdf
 uid: 5da6b17f-8a57-34b6-6877-10394b301616

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: 99f2e0e1-2dd7-a8da-c15f-55445b29323c
 resourcetype: Document
 title: april1assign.pdf
 uid: cb72b4bc-dcd6-9af1-99bc-18cf5d31c804

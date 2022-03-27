@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c90e6ec2-ec3a-d3d8-70a7-b660afb8e09d
 resourcetype: Document
 title: itdoesmatterv3.pdf
 uid: e575ed25-8089-cee0-8a59-43aaaf2bae67

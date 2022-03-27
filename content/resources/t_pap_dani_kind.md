@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: c90e6ec2-ec3a-d3d8-70a7-b660afb8e09d
 resourcetype: Document
 title: t_pap_dani_kind.pdf
 uid: cb82e00a-3409-e8a1-f669-8a2a8cefcb11
