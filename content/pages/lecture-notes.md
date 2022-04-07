@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection
+parent_uid: null
 title: Lecture Notes
 uid: d8a83803-3e8a-8de4-0d18-d59a3d730ce8
 ---
@@ -36,7 +37,7 @@ Introduction: Versioning and Price Discrimination
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Pricing Information ([PDF 1]({{< baseurl >}}/resources/15575prestion)) ([PDF 2]({{< baseurl >}}/resources/15575prstn_smry)) (Courtesy of Sumit Bhansali. Used with permission.)
+Pricing Information ({{< resource_link fea88919-0d5a-561b-7795-34b0af8c35d2 "PDF 1" >}}) ({{< resource_link c76521ad-b377-bc13-e473-8064cf33671c "PDF 2" >}}) (Courtesy of Sumit Bhansali. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -63,7 +64,7 @@ Search and Competition II
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Reputation, Trust and Recommender Systems ([PDF]({{< baseurl >}}/resources/tanu)) (Courtesy of Tanu Ghosh. Used with permission.)
+Reputation, Trust and Recommender Systems ({{< resource_link cf64598d-0c47-b912-ec7d-ee7d938b91b4 "PDF" >}}) (Courtesy of Tanu Ghosh. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Economics of Networks, Standards and Lock-In
 7
 {{< tdclose >}}
 {{< tdopen >}}
-IT and Productivity ([PDF]({{< baseurl >}}/resources/it_prodvityv26)) (Courtesy of Carlos Osorio and Daniel Kindström. Used with permission.)
+IT and Productivity ({{< resource_link e3a4ed1c-d878-ac9f-a3fb-e653b6e6bad0 "PDF" >}}) (Courtesy of Carlos Osorio and Daniel Kindström. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -90,7 +91,7 @@ IT and Productivity ([PDF]({{< baseurl >}}/resources/it_prodvityv26)) (Courtesy 
 8
 {{< tdclose >}}
 {{< tdopen >}}
-The Principal-Agent Model of the Firm ([PDF]({{< baseurl >}}/resources/ag_vw_firm_impli)) (Courtesy of David Dreyfus. Used with permission.)
+The Principal-Agent Model of the Firm ({{< resource_link d78ce15f-90c5-5074-1baa-d48e17ca1b0c "PDF" >}}) (Courtesy of David Dreyfus. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ The Principal-Agent Model of the Firm ([PDF]({{< baseurl >}}/resources/ag_vw_fir
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Managerial Views of the Firm ([PDF]({{< baseurl >}}/resources/15575mgr_vw_firm)) (Courtesy of Steve Kahl. Used with permission.)
+Managerial Views of the Firm ({{< resource_link 5f9f833e-1e54-c9be-6c0a-7d6938f11963 "PDF" >}}) (Courtesy of Steve Kahl. Used with permission.)
 {{< tdclose >}}
 
 {{< trclose >}}

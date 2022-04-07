@@ -3,6 +3,7 @@ content_type: page
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
+parent_uid: null
 title: Assignments
 uid: 99f2e0e1-2dd7-a8da-c15f-55445b29323c
 ---
@@ -36,7 +37,7 @@ Introduction: Versioning and Price Discrimination
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Pricing Information ([PDF]({{< baseurl >}}/resources/feb12assign))
+Pricing Information ({{< resource_link f8cd7ca2-500d-324d-64a8-6c0a98548e51 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -72,7 +73,7 @@ Reputation, Trust and Recommender Systems
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Economics of Networks, Standards and Lock-In ([PDF]({{< baseurl >}}/resources/march11assign))
+Economics of Networks, Standards and Lock-In ({{< resource_link 12c6028f-63f6-3efa-b7ee-f97a285a81ec "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -81,7 +82,7 @@ Economics of Networks, Standards and Lock-In ([PDF]({{< baseurl >}}/resources/ma
 7
 {{< tdclose >}}
 {{< tdopen >}}
-IT and Productivity ([PDF]({{< baseurl >}}/resources/april1assign))
+IT and Productivity ({{< resource_link cb72b4bc-dcd6-9af1-99bc-18cf5d31c804 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -99,7 +100,7 @@ The Principal-Agent Model of the Firm
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Managerial Views of the Firm ([PDF]({{< baseurl >}}/resources/april15assign))
+Managerial Views of the Firm ({{< resource_link d41a945d-0d41-4749-b8e4-330465d731b9 "PDF" >}})
 {{< tdclose >}}
 
 {{< trclose >}}
