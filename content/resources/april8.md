@@ -5,6 +5,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: april8.pdf
 uid: 9b8c6c1f-ac2b-33d0-2327-5cda05e87d3f
 ---
 Study questions associated with the week's reading assignment.
-

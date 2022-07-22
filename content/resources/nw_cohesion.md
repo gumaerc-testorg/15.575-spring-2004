@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: nw_cohesion.pdf
 uid: 37b86228-20ca-5399-48cd-0a6032403b11
 ---
 This resource explains the absorptive capacity model to analyze the implications of relaxing the assumption that information search costs are free.
-

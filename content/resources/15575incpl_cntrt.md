@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 15575incpl_cntrt.pdf
 uid: 5c9135b7-a4e5-3ac1-08e0-367185b5f0f6
 ---
 This resource explains the theory related to firm, incomplete contracts and firm boundaries.
-

@@ -5,6 +5,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: tanu.pdf
 uid: cf64598d-0c47-b912-ec7d-ee7d938b91b4
 ---
 Lecture presentation covering the problems associated with online transactions.
-

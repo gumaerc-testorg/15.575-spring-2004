@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: prest_danielkind.pdf
 uid: f74b1861-668d-12df-3b39-c41984412b5e
 ---
 This resource deals with the case study on the offering, e-business, and information technology.
-

@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Readings
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: april22.pdf
 uid: 7b4f2e5f-5aaa-d5a3-10a6-4472f2310b9a
 ---
 This resource explains the readings on incomplete contracts and firm boundaries.
-

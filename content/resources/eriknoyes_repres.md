@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: eriknoyes_repres.pdf
 uid: 5da6b17f-8a57-34b6-6877-10394b301616
 ---
 This resource explains the representaion and comprehension of oppurtunity in corporate entrepreneurship.
-

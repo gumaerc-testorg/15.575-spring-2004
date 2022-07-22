@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: networkcohesion.pdf
 uid: e4120f15-071c-b694-dc0f-6564ec87f265
 ---
 Sample student project presentation. Courtesy of David Dreyfus. Used with permission.
-

@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: elydrft29apl2004.pdf
 uid: a292e8c0-a975-ffe3-c98b-b4fba6f34db6
 ---
 This resource explains the incentives to innovate in the face of competing bundles that grow stronger as bundles get larger.
-

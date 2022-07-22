@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: itdoesmatterv3.pdf
 uid: e575ed25-8089-cee0-8a59-43aaaf2bae67
 ---
 This resource explains productivity, business profitability and consumer surplus which are maesures of information technology.
-

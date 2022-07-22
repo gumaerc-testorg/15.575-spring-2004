@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 15575presentaton.pdf
 uid: 98e384b1-d7f3-d09a-0480-c62c2b0b6491
 ---
 This resource explains a repeated prisoner?s dilemma model of buyer-supplier relationships and noncontractible investments.
-

@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: it_intangleasst.pdf
 uid: 6ff40bbf-4b2b-9663-1948-77d28a1e2468
 ---
 This resource explains a survey of the different organizational assets that impact firm productivity or performance.
-

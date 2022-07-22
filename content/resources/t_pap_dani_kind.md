@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: t_pap_dani_kind.pdf
 uid: cb82e00a-3409-e8a1-f669-8a2a8cefcb11
 ---
 This resource deals with issues related to offering, e-business and market orientation.
-

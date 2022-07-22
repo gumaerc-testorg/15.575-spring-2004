@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: swt_cst_final_pr.pdf
 uid: 0585e2fc-66d0-7daf-8d78-9547ffc02a2d
 ---
 This resource deals with the analysis on switching costs through hypotheses and various models.
-

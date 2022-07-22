@@ -6,6 +6,7 @@ file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspect
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: 15575mgr_vw_firm.pdf
 uid: 5f9f833e-1e54-c9be-6c0a-7d6938f11963
 ---
 Lecture presentation covering the change in importance of complimentarities and the managerial view of the firm and knowledge work.
-
