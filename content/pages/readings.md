@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: ''
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 09125731-256e-c131-5731-43f3e361d2f2
 ---
@@ -26,7 +30,7 @@ READINGS
 {{< tdclose >}}
 {{< tdopen >}}
 Introduction: Versioning and Price  
-Discrimination ([PDF]({{< baseurl >}}/resources/feb5))
+Discrimination ({{% resource_link a891cce0-4467-d60d-c1cb-f18d77d49d90 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Recommended Readings_
@@ -58,7 +62,7 @@ Shapiro, C., and H. Varian. "Versioning Information." In _Information Rules: A S
 2
 {{< tdclose >}}
 {{< tdopen >}}
-Pricing Information ([PDF]({{< baseurl >}}/resources/feb12))
+Pricing Information ({{% resource_link d1cf8a18-fb7d-a1ad-c59d-cecbc6def051 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Required Readings_
@@ -160,7 +164,7 @@ Stanford GSB EC-8. "Pricing and Branding on the Internet."
 5
 {{< tdclose >}}
 {{< tdopen >}}
-Reputation, Trust and Recommender Systems ( [PDF]({{< baseurl >}}/resources/march4))
+Reputation, Trust and Recommender Systems ( {{% resource_link 904cd39d-55d5-e6b5-ce7f-51345da00016 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Required Readings_
@@ -188,7 +192,7 @@ Dellarocas, C. "Efficiency and Robustness of Binary Feedback Mechanisms in Tradi
 6
 {{< tdclose >}}
 {{< tdopen >}}
-Economics of Networks, Standards and Lock-In ( [PDF]({{< baseurl >}}/resources/march11))
+Economics of Networks, Standards and Lock-In ( {{% resource_link bbcd5a3b-7101-6ecf-6004-92abfab287d2 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Required Readings_
@@ -226,7 +230,7 @@ Shapiro, C., and H. Varian. "Networks and Positive Feedback." In _Information Ru
 7
 {{< tdclose >}}
 {{< tdopen >}}
-IT and Productivity ( [PDF]({{< baseurl >}}/resources/april1))
+IT and Productivity ( {{% resource_link 125b3ecf-91f8-cfdd-30a1-5d9979135372 "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Required Readings_
@@ -260,7 +264,7 @@ Stiroh, K. "Information Technology and U.S. Productivity Revival: What do the In
 8
 {{< tdclose >}}
 {{< tdopen >}}
-The Principal-Agent Model of the Firm ( [PDF]({{< baseurl >}}/resources/april8))
+The Principal-Agent Model of the Firm ( {{% resource_link 9b8c6c1f-ac2b-33d0-2327-5cda05e87d3f "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Required Readings_
@@ -298,7 +302,7 @@ Autor, D., L. Katz, and A.Krueger. "Computing Inequality: Have Computers Changed
 9
 {{< tdclose >}}
 {{< tdopen >}}
-Managerial Views of the Firm ( [PDF]({{< baseurl >}}/resources/april15))
+Managerial Views of the Firm ( {{% resource_link ba7c7050-80e6-b27f-4a1a-3e8444425bfb "PDF" %}})
 {{< tdclose >}}
 {{< tdopen >}}
 _Required Readings_
