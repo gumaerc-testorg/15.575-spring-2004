@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource deals with the sheet of information for students.
-file: /ol-ocw-studio-app/courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/7562268dde1b12e199a0410ee86c69e6_feb5assign.pdf
+file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/7562268dde1b12e199a0410ee86c69e6_feb5assign.pdf
 file_size: 9645
 file_type: application/pdf
 learning_resource_types:
