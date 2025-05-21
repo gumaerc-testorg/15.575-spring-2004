@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource provides reading guide on search and competition II.
-file: /ol-ocw-studio-app/courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/dc8f92720a591ef1b5b6582d1b89f233_feb26.pdf
+file: /courses/15-575-research-seminar-in-it-and-organizations-economic-perspectives-spring-2004/dc8f92720a591ef1b5b6582d1b89f233_feb26.pdf
 file_size: 12139
 file_type: application/pdf
 learning_resource_types:
